@@ -99,7 +99,7 @@ Even without a Groq API key, CURA produces unique, personalized outputs. The Bea
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cura-ai.git
+git clone https://github.com/NexusCoder14/cura-ai.git
 cd cura-ai/cura
 
 cp .env.example .env
